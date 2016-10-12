@@ -1,3 +1,4 @@
+;;; bigquery-mode.el --- BigQuery mode for Emacs
 (require 'oauth2)
 (require 'json)
 (require 'helm)
