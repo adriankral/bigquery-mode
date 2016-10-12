@@ -265,3 +265,5 @@ then get them all and turn into a big list"
   (interactive)
   (helm :sources '(helm-source-bigquery-datasets)
 	:buffer "*helm-bigquery*"))
+
+(provide 'bigquery-mode)
